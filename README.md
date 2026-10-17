@@ -556,30 +556,6 @@
   </tbody>
 </table>
 
-<h2 class="section-title">🧾 Студенттердің өзіндік тапсырмалары</h2>
-
-<table border="1" cellspacing="0" cellpadding="6" style="border-collapse: collapse; width:100%; text-align:left;">
-  <thead style="background-color:#f3f3f3;">
-    <tr>
-      <th style="width:40%;">Студент коды</th>
-      <th style="width:30%;">GitHub аккаунт</th>
-      <th style="width:30%;">Репозиторий сілтемесі</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr><td>MO26-01</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-02</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-03</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-04</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-05</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-06</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-07</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-08</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-09</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-    <tr><td>MO26-10</td><td><a href="#">Профиль</a></td><td><a href="#">Репо</a></td></tr>
-  </tbody>
-</table>
-
 
 <h2 class="section-title">📧 Байланыс</h2>
 
